@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/resimler">
+        <file>resimler/arkaplan.jpg</file>
+        <file>resimler/kus.gif</file>
+    </qresource>
+</RCC>
